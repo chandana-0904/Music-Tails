@@ -1,0 +1,51 @@
+body {
+    text-align: center;
+    background-color: white;
+  }
+  
+  h1 {
+    font-size: 3rem;
+    color: white;
+    font-family: "Arvo", cursive;
+    text-shadow: 5px 0 #DA0463;
+  
+  }
+  
+  footer {
+    color:#d12673 ;
+    font-weight: 900;
+    font-family: sans-serif;
+    font-family: "Arvo", cursive;
+
+  }
+  b{
+    text-shadow: 2px 0 white;
+    text-decoration: underline #d12673 ;
+  }
+ 
+  
+  .set {
+    margin: 1% auto;
+  }
+  
+ 
+ 
+  .music {
+    border: 5px solid #d12673;
+    border-radius: 10px;
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+  }
+  .bg{
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.e7LL5xYNXwBO4mtc5t7TWwHaEL&pid=Api&P=0&w=269&h=152);
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    width:100%;
+    height:100vh;
+    
+}
+   
+  
